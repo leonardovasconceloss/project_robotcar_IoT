@@ -92,7 +92,7 @@ Este projeto demonstrou a aplicabilidade de conceitos de IoT e lógica em um amb
 
 Agradecemos a todos os colegas e professores que contribuíram para a realização deste projeto. 
 
-**Professor orientador:** Leonardo Bontemp
+**Professor orientador:** Leonardo Bontempo
 
 **Equipe participante:**
 
