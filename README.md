@@ -85,16 +85,16 @@ Este projeto demonstrou a aplicabilidade de conceitos de IoT e lógica em um amb
 
 - **Melhorar a Autonomia:** Otimização do consumo de energia.
 - **Aprimorar o Controle:** Implementação de sensores adicionais para navegação autônoma.
-- **Novos métodos de conexão: Adicionar novas formas de conexão, focando na baixa latência e consistência do sinal.
-- **Software: **Otimizar o código e adicionar novas funcionalidades para feedback. 
+- **Novos métodos de conexão:** Adicionar novas formas de conexão, focando na baixa latência e consistência do sinal.
+- **Software:** Otimizar o código e adicionar novas funcionalidades para feedback. 
 
 ## Agradecimentos
 
 Agradecemos a todos os colegas e professores que contribuíram para a realização deste projeto. 
 
-Professor orientador: Leonardo Bontemp
+**Professor orientador:** Leonardo Bontemp
 
-**Equipe participante:
+**Equipe participante:**
 
 Gustavo Gazi
 Leonardo V Santana
