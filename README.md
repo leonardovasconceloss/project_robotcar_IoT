@@ -21,6 +21,7 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos na matéria de l
 ### Software
 
 - **Blynk IoT:** Aplicativo utilizado para controlar o microcontrolador ESP32 via Wi-Fi.
+- **Código atual utilizado:** https://github.com/leonardovasconceloss/project_robotcar_IoT/tree/tests/robotcarcode
 
 ## Descrição do Sistema
 
