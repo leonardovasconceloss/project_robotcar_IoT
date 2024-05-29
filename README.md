@@ -45,6 +45,11 @@ O sistema consiste em um carrinho robô controlado remotamente através de um di
 ### Fluxo de desenvolvimento 
 ![image](https://github.com/leonardovasconceloss/project_robotcar_IoT/assets/118570524/0e4a6ba6-10a1-49a0-a916-cafa26f7bd9b)
 
+### Quadro Kanban para organização ágil de tarefas
+
+![image](https://github.com/leonardovasconceloss/project_robotcar_IoT/assets/118570524/89ae5738-893b-4dae-8b10-d11fa287dc28)
+
+
 ## Funcionamento do Projeto
 
 1. **Configuração Inicial:**
