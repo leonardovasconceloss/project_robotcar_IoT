@@ -99,7 +99,7 @@ Agradecemos a todos os colegas e professores que contribuíram para a realizaç�
 - Gustavo Gazi.
 - Leonardo V Santana.
 - Eder Malaquias.
-- Amauri.
+- Amauri Santos.
 - Vander Viana.
 - Arthur Mendes.
 
