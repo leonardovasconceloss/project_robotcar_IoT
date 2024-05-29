@@ -96,12 +96,12 @@ Agradecemos a todos os colegas e professores que contribuíram para a realizaç�
 
 **Equipe participante:**
 
-Gustavo Gazi.
-Leonardo V Santana.
+-Gustavo Gazi.
+-Leonardo V Santana.
 Eder Malaquias.
-Amauri.
-Vander Viana.
-Arthur Mendes.
+-Amauri.
+-Vander Viana.
+-Arthur Mendes.
 
 
 ## Book de imagens dos momentos de desenvolvimento. 
